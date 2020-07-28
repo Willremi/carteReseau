@@ -68,3 +68,8 @@ ul, li {
 	font-weight: bold;
 	color:#B20000;
 }
+
+.nom_ville {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-size: 24px;
+}
