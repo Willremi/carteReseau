@@ -142,3 +142,8 @@ ul, li {
   font-family:'ArialMT', 'Arial', sans-serif;
   font-size: 24px;
 }
+
+#info-box2 {
+  height: 300px;
+  overflow: auto;
+}
