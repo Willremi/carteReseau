@@ -144,6 +144,6 @@ ul, li {
 }
 
 #info-box2 {
-  height: 300px;
+  max-height: 250px;
   overflow: auto;
 }
