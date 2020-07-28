@@ -1,0 +1,70 @@
+h1{
+    font-family: arial;
+    font-size: 16px;
+	width:30%;
+	margin-left:35%;
+	margin-top:5%;
+	margin-bottom:0px;
+	color:#b7b7b7;
+}
+h2{
+    font-family: arial;
+    font-size: 13px;
+	width:80%;
+	margin-left:10%;
+	color:#b7b7b7;
+}
+path:hover {
+  stroke: #bb0068 !important;
+  stroke-width:8px  !important;;
+  cursor: pointer;
+}
+
+#info-box {
+  display: none;
+  position: absolute;
+  top: 30000px;
+  left:30000px;
+  z-index: 1;
+  background-color: #fffff0;
+  border: 1px solid #BF0A30;
+  border-radius: 5px;
+  padding: 15px;
+  font-family: arial;
+  font-size: 18px;
+  color:black;
+}
+#info-box2 {
+  display: none;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 60%;
+  z-index: 1;
+  background-color: #fffff0;
+  border: 3px solid #AFF0f0;
+  border-radius: 5px;
+  padding: 15px;
+  font-family: arial;
+  font-size: 18px;
+  color:green;
+}
+
+.region {
+	font-size:18px;
+}
+
+.infos, .infos-regions {
+	display: none;
+}
+ul, li {
+	margin : 0px;
+	margin-left:5px;
+	padding : 0px;
+}
+
+.compagnie {
+	font-style: italic;
+	font-weight: bold;
+	color:#B20000;
+}
