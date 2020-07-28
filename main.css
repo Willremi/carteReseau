@@ -70,6 +70,68 @@ ul, li {
 }
 
 
+#belgique {
+  fill:rgb(255,223,147);
+  stroke:black;
+  stroke-width:1px;
+}
+
+#nord {
+  fill:rgb(232,227,216);
+  stroke:black;
+  stroke-width:1px;
+}
+
+#est {
+  fill:rgb(234,229,124);
+  stroke:black;
+  stroke-width:1px;
+}
+
+#ile-de-france {
+  fill:rgb(88,214,224);
+  stroke:black;
+  stroke-width:1px;
+}
+
+#normandie {
+  fill:rgb(234,181,139);
+  stroke:black;
+  stroke-width:1px;
+}
+
+#bretagne {
+  fill:rgb(213,237,234);stroke:black;stroke-width:1px;
+}
+
+#pays-de-loire {
+  fill:rgb(120,177,114);stroke:black;stroke-width:1px;
+}
+
+#centre {
+  fill:rgb(167,172,255);stroke:black;stroke-width:1px;
+}
+
+#bourgogne {
+  fill:rgb(207,152,107);stroke:black;stroke-width:1px;
+}
+
+#auvergne {
+  fill:rgb(235,201,190);stroke:black;stroke-width:1px;
+}
+
+#provence {
+  fill:rgb(255,227,193);stroke:black;stroke-width:1px;
+}
+
+#aquitaine {
+  fill:rgb(218,207,192);stroke:black;stroke-width:1px;
+}
+
+#occitanie {
+  fill:rgb(184,214,202);stroke:black;stroke-width:1px;
+}
+
 .villes {
   fill:rgb(251,96,34);
   stroke:black;
