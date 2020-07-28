@@ -69,6 +69,13 @@ ul, li {
 	color:#B20000;
 }
 
+
+.villes {
+  fill:rgb(251,96,34);
+  stroke:black;
+  stroke-width:0.95px;
+}
+
 .nom_ville {
   font-family:'ArialMT', 'Arial', sans-serif;
   font-size: 24px;
