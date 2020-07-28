@@ -1,6 +1,6 @@
 survolCarte = false;
 
-$( document ).ready(function() {
+$(document).ready(function() {
 	$('#info-box').css('display','block');
 });
 
