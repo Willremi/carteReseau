@@ -38,6 +38,7 @@ path:hover {
   font-family: arial;
   font-size: 18px;
   color:black;
+  max-height: 750px;
 }
 
 #info-box2 {
