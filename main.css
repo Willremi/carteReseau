@@ -67,10 +67,16 @@ path:hover {
 	display: none;
 }
 
+ul {
+  list-style-type: circle;
+  /* list-style-position: inside; */
+}
+
 ul, li {
 	margin : 0px;
 	margin-left:5px;
-	padding : 0px;
+  padding : 0px;
+  text-indent: 20px;
 }
 
 .compagnie {
