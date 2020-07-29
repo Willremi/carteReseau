@@ -1,8 +1,8 @@
 survolCarte = false;
 
-$(document).ready(function() {
-	$('#info-box').css('display','block');
-});
+// $(document).ready(function() {
+// 	$('#info-box').css('display','block');
+// });
 
 /* affichage région */
 $("path").mouseenter(function(e) {
