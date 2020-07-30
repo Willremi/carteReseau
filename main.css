@@ -186,7 +186,7 @@ ul, li {
 }
 
 @media (min-width: 1040px) {
-  .titre {
-    margin-top: 7%;
+  .navbar-nav, .nav-item {
+    text-indent: unset;
   }
 }
