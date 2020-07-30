@@ -70,3 +70,4 @@ $(document).mousemove(function(e) {
 	$('#info-box').css('left',e.pageX-($('#info-box').width())/2);
 }
 });
+

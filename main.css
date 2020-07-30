@@ -185,6 +185,10 @@ ul, li {
   font-size: 34px;
 }
 
+#regionSelect {
+  width: 100%;
+}
+
 @media (min-width: 1040px) {
   .navbar-nav, .nav-item {
     text-indent: unset;
