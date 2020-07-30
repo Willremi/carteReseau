@@ -184,3 +184,9 @@ ul, li {
   font-family:'ArialMT', 'Arial', sans-serif;
   font-size: 34px;
 }
+
+@media (min-width: 1040px) {
+  .titre {
+    margin-top: 7%;
+  }
+}
