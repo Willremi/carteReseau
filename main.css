@@ -104,6 +104,9 @@ ul, li {
   text-indent: 20px; /* Alinéa */
 }
 
+strong {
+  font-size: 14px;
+}
 .compagnie {
 	font-style: italic;
 	font-weight: bold;
