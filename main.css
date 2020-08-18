@@ -2,8 +2,26 @@ body {
   background-color: rgba(247, 245, 231, 0.7);
 }
 
+
 a.nav-link {
   font-size: 16px;
+}
+
+.nav-link:hover {
+  color: #ca3c08 !important;
+}
+
+.dropdown-menu {
+  background: #343A40;
+}
+
+a.dropdown-item {
+  color: #FFFFFF80;
+}
+
+a.dropdown-item:hover {
+  background: #ca3c08 !important;
+  color: white;
 }
 
 .container h1 {
