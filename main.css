@@ -34,10 +34,10 @@ a.nav-link {
 	color:#b7b7b7;
 } */
 
-body {
+/* body {
   overflow-x: hidden;
   overflow-y: auto;
-}
+} */
 
 svg {
   fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;
@@ -45,7 +45,7 @@ svg {
 
 path:hover {
   stroke: #bb0068 !important;
-  stroke-width:8px  !important;;
+  stroke-width:8px  !important;
   cursor: pointer;
 }
 

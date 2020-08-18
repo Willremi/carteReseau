@@ -67,7 +67,7 @@ $("path").click(function(e) {
 $(document).mousemove(function(e) {
 	if (survolCarte) {
 	$('#info-box').css('top',e.pageY-$('#info-box').height()-50);
-	$('#info-box').css('left',e.pageX-($('#info-box').width())/2);
+	$('#info-box').css('left',e.pageX-($('#info-box').width())/6);
 }
 });
 
