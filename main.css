@@ -213,17 +213,17 @@ ul, li {
   .navbar-nav, .nav-item {
     text-indent: unset;
   }
+  .container, .container-sm, .container-md {
+    max-width: 720px;
+    margin-top: 4%;
 }
 
-/* @media (max-width:760px) {
-  .titre {
-    margin-top: 10% !important;
-  }
-} */
-@media (min-width: 768px) {
+}
+
+@media (min-width: 768px) and (max-width: 1039px) {
     .container, .container-sm, .container-md {
         max-width: 720px;
-        margin-top: 6%;
+        margin-top: 7%;
     }
 
     .nom_ville {
